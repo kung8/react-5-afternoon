@@ -22,7 +22,7 @@ class WizardThree extends Component {
 
 function mapStateToProps(state){
     return {
-        prop:state.prop
+        propToBeUsed:state.propToBeUsed
     }
 }
 
